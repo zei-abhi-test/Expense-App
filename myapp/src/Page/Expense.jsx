@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '../Component/Navbar'
-import List from '../Component/Expenselist'
+import List from '../Component/List'
 import Expensetotal from '../Component/Expensetotal'
 
 const Expense = () => {
