@@ -1,0 +1,6 @@
+{
+  "expenses": [
+    { "id": 1, "title": "Groceries", "amount": 45, "date": "2025-08-01" },
+    { "id": 2, "title": "Electricity Bill", "amount": 60, "date": "2025-08-05" }
+  ]
+}
